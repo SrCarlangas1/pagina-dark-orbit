@@ -1,0 +1,33 @@
+#hola {
+	width: 80%;
+}
+#fontojum{
+	background-color: black;
+}
+.navbar-nav {
+	display: inline-block;
+	float: none;
+	vertical-align: top;
+	text-align: center;
+	margin: 0 auto;
+}
+#video1{
+	width: 30%;
+	height: 20%;
+	margin: 10%;
+}
+img{
+	width: 45%;
+	height: 45%;
+}
+#noticias{
+    margin-left: 10%;
+    width: 90%;
+}
+#not{
+    width: 50%;
+    position: absolute;
+    left: 44%;
+    font-size: 305%;
+    color: red;
+}
