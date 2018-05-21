@@ -1,13 +1,13 @@
 [{
 	"titulo": "Nuevos vans",
 	"descripcion": "Aqui estan los nuevos vans creados desde la nasa",
-	"img": "img/noticia1.gif",
+	"img": "img/noticia1.gif"
 }, {
 	"titulo": "Nuevas naves",
 	"descripcion": "Aqui estan las nuevas naves creadas desde la nasa",
-	"img": "img/noticia2.jpg",
+	"img": "img/noticia2.jpg"
 },	{
 	"titulo": "Nuevos diseños",
 	"descripcion": "Aqui estan los diseños creados desde la nasa",
-	"img": "img/noticia3.jpg",
+	"img": "img/noticia3.jpg"
 }]
