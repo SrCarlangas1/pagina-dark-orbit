@@ -16,4 +16,12 @@ img
   
   4. Tendra abajo derecha 3 iconos que iran a mostrar el facebook,youtube e instragram.
   
+  5. Se implementa un rss con las noticias.
+  
+  6. Se implementa 2 ficheros json que se cambiaran para monstrar 3 noticias cada uno.
+  
+  7. Se implementa opengraf.
+  
+  8. 
+  
   
