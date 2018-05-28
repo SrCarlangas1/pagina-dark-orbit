@@ -1,4 +1,4 @@
-# pagina-dark-orbit
+# Pagina de noticias.
 Se va ha crear una pagina WEB sobre un juego que se llama DARK ORBIT (PVP)
 Que va estar compuesto por:
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -23,6 +23,36 @@ img
   7. Se implementa opengraf.
   
   8. Va ha tener 3 noticias completas.
+  
+  
+  
+# 3.Versiones:
+
+  Version I
+  
+  1.Primero se crea el folleto.
+  
+  Version II
+  
+  1.Se prepara la estructura de la pagina se crea el logo y el menu.
+  
+  Version III
+  
+  1.Se empieza a preparar el cuerpo de la pagina las 3 primeras noticias que se muestran y CSS.
+  2.Se crea el anuncio en la parte derecha.
+  3.Se crea el anuncio en la parte de arriba.
+  
+  Version IV
+  
+  1.Se crean 2 json.
+  2.Se crea el rss.
+  3.Se crea el javascrip, para cargar mas noticias.
+  
+  Version V
+  
+  1.Se implemeta el opengraf.
+  2.Se implementan los videos en la seccion de videos que son iframe.
+  3.Se implementa la rueda de espera que se quita cuando se carga la pagina.
   
   
   
