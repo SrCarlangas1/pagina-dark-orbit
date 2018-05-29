@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<noticias xmlns="http://www.w3schools.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.w3schools.com XSD.xsd">
+
+ <noticia id='noticia123'>
+    <div class="container" id="contenedor" >
+        <div id="noticias" class="row">
+          <div class="col-sm-4" id="noticia1">
+            <img  id="imgnoticia1" class="img-circle" src="img/noticia1.gif">
+            <div>
+              <h1>Nuevos evento</h1>
+              <p>Aqui estan los nuevos eventos creados desde la nasa</p>
+            </div>
+
+          </div>
+
+          <div class="col-sm-4" id="noticia2">
+            <img id="imgnoticia2" class="img-circle" src="img/noticia2.jpg">
+            <h1>Nuevas baneos</h1>
+            <p>Aqui estan las nuevas baneos creadas desde la nasa</p>
+          </div>
+
+          <div class="col-sm-4" id="noticia3">
+            <img id="imgnoticia3" class="img-circle" src="img/noticia3.jpg">
+            <h1>Union de servidores</h1>
+            <p>Aqui esta la unicion de los servidores creados desde la nasa</p>
+          </div>
+        </div>
+      </div>
+ </noticia >
+
+</noticias>
