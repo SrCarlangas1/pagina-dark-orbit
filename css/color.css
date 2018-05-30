@@ -64,9 +64,6 @@ h1,p{
 	display: none;
 }
 
-#anuncion_vertical{
-
-}
 #informacion{
     text-align: center;
     margin-left: 10%;
@@ -98,7 +95,7 @@ span {
 
 @media screen and (min-width: 768px){
 
-	#contenedor{
+	#principal{
 		width: 100%;
 	    padding-right: 336px;
 
@@ -112,22 +109,4 @@ span {
 		transform-style: preserve-3d;
 
 	}
-
-@media screen and (max-width: 767px){
-
-	#contenedor{
-		width: 100%;
-		padding-top: 100px;
-
-	}
-
-	#fotoanuncio2{
-		float: right;
-		display: block;
-		width: 100px;
-		height: 100%;
-		transform-style: preserve-3d;
-
-	}
-	
 }
