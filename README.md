@@ -1,7 +1,16 @@
 # Pagina de noticias.
 Se va ha crear una pagina WEB sobre un juego que se llama DARK ORBIT (PVP)
 Que va estar compuesto por:
-------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
+
+# Fallos
+Se han corrido el error de no poner el texto justificado
+
+El error del espacio lateral
+
+
+
+
 # 1.La portada 
 
 img
