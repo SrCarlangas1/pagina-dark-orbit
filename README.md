@@ -4,9 +4,11 @@ Que va estar compuesto por:
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # Fallos
-Se han corrido el error de no poner el texto justificado
+El error de no poner el texto justificado---->Corregido
 
-El error del espacio lateral
+El error del espacio lateral---->Corregido
+
+El error de que faltan videos---->Corregido
 
 
 
