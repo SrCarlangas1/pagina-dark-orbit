@@ -10,12 +10,13 @@ El error del espacio lateral---->Corregido
 
 El error de que faltan videos---->Corregido
 
+El error del Meta descricion----->Corregido
 
-
+El error del Meta Facebook----->Corregido
 
 # 1.La portada 
 
-img
+![WEB](https://rawgit.com/SrCarlangas1/pagina-dark-orbit/master/img/anuncio.jpg)
 
 # 2.Especificaciones:
 
