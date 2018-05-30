@@ -14,7 +14,6 @@ $(function(){
 });
 
 
-
 function cargarnoticias(json) {
     var data = '<div class="row noticias">';
     $.each(json, function (i, parte) {
@@ -34,18 +33,24 @@ function cargarnoticias(json) {
     $("#principal").append(data);
 };
 
-$(window).scroll(function () {
-    if ($(window).scrollTop() + $(window).height() + 10 >= $(document).height()) {
-        if (numero < 3) {
-			$.getJSON("https://rawgit.com/SrCarlangas1/pagina-dark-orbit/master/json/" + numero + ".json", function (jsonObject) {
-            cargarnoticias(jsonObject);
-            numero++;
-            });
-            
-        } else {
-            $('#boton').text('No hay más');
-        }
-    }
-});
+$(function(){
+    $("#hola").click(function(){
+        if ($("#hola").html("Activar scroll")) {
+            $(window).scroll(function () {
+                if ($(window).scrollTop() + $(window).height() + 10 >= $(document).height()) {
+                    if (numero < 3) {
+                        $.getJSON("https://rawgit.com/SrCarlangas1/pagina-dark-orbit/master/json/" + numero + ".json", function (jsonObject) {
+                            cargarnoticias(jsonObject);
+                            numero++;
+                        });
+
+                    } else {
+                        $('#boton').text('No hay más');
+                    }
+                }
+                
+            })}
+})})
+
 
 

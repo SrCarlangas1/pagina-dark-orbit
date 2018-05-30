@@ -101,6 +101,12 @@ span {
 
 	}
 
+	#principal1{
+		width: 100%;
+	    padding-right: 336px;
+
+	}
+
 	#fotoanuncio{
 		float: right;
 		display: block;
