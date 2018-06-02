@@ -16,7 +16,7 @@ El error del Meta Facebook----->Corregido
 
 # 1.La portada 
 
-![WEB](https://rawgit.com/SrCarlangas1/pagina-dark-orbit/master/img/anuncio.jpg)
+![WEB](https://rawgit.com/SrCarlangas1/pagina-dark-orbit/master/img/adios.jpg)
 
 # 2.Especificaciones:
 
