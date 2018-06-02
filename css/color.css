@@ -23,6 +23,11 @@
 	background-size: cover; 
 }
 
+.row{
+	margin-right: 0px; 
+    margin-left: 0px;
+}
+
 h1,p{
 	color: black;
 }
@@ -50,16 +55,7 @@ h1,p{
 	text-align: center;
 	margin: 0 auto;
 }
-#video1{
-	width: 30%;
-	height: 20%;
-	margin: 10%;
-}
 
-.noticias{
-    margin-left: 10%;
-    width: 90%;
-}
 #fotoanuncio{
 	display: none;
 }
@@ -101,11 +97,6 @@ span {
 
 	}
 
-	#principal1{
-		width: 100%;
-	    padding-right: 336px;
-
-	}
 
 	#fotoanuncio{
 		float: right;

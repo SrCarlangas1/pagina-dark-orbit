@@ -3,53 +3,29 @@
 
 <noticias>
     <noticia>
-        <titulo></titulo>
-        <descripcion></descripcion>
-        <img></img>
-        <date></date>
-        <enlace></enlace>
-    </noticia>
-
-        <noticia>
-        <titulo></titulo>
-        <descripcion></descripcion>
-        <img></img>
-        <date></date>
-        <enlace></enlace>
-    </noticia>
-
-        <noticia>
-        <titulo></titulo>
-        <descripcion></descripcion>
-        <img></img>
-        <date></date>
-        <enlace></enlace>
+        <titulo>Nuevas naves</titulo>
+        <descripcion>Esperaba mucho de estas ofrendas nuevas del equipo DO pero me siento un poco desilusionado con la falta de imaginación en las habilidades de la Cyborg, una Venom aumentada, y la Hammerclaw, una Aegis aumentada.</descripcion>
+        <img>../img/noticia2.jpg</img>
+        <date>DATE:27/05/18</date>
+        <enlace>https://rawgit.com/SrCarlangas1/pagina-dark-orbit/master/noticia1_.html</enlace>
     </noticia>
 
     <noticia>
-        <titulo></titulo>
-        <descripcion></descripcion>
-        <img></img>
-        <date></date>
-        <enlace></enlace>
+        <titulo>Nuevos diseños de naves</titulo>
+        <descripcion>El crucero de batalla Goliath K2, conocido popularmente como Goli, es, sin ninguna duda, la nave con mayor potencia de fuego y uno de los enemigos más temidos.Se puede adquirir en la Tienda, en Subasta y mediante compra con dinero.</descripcion>
+        <img>../img/noticia1.jpg</img>
+        <date>DATE:27/05/18</date>
+        <enlace>https://rawgit.com/SrCarlangas1/pagina-dark-orbit/master/noticias_2.html</enlace>
     </noticia>
 
     <noticia>
-        <titulo></titulo>
-        <descripcion></descripcion>
-        <img></img>
-        <date></date>
-        <enlace></enlace>
+        <titulo>Clanes Multi empresa</titulo>
+        <descripcion>Hola pilotos,
+                Queremos abrir una discusión sobre los clanes de múlti-empresas y la situación que han creado en el juego.Ahora, sabemos que éste ha sido un tema candente durante bastante tiempo para los jugadores y es algo que hemos discutido muchas veces internamente en el equipo</descripcion>
+        <img>../img/noticia3.jpg</img>
+        <date>DATE:27/05/18</date>
+        <enlace>https://rawgit.com/SrCarlangas1/pagina-dark-orbit/master/noticia_3.html</enlace>
     </noticia>
-
-        <noticia>
-        <titulo></titulo>
-        <descripcion></descripcion>
-        <img></img>
-        <date></date>
-        <enlace></enlace>
-    </noticia>
-    
 </noticias>
 
 </rss>
