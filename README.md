@@ -70,7 +70,6 @@ El error del Meta Facebook----->Corregido
   
   2. Se implementan los videos en la seccion de videos que son iframe.
   
-  3. Se implementa la rueda de espera que se quita cuando se carga la pagina.
   
   
   
